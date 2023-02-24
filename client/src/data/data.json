@@ -1,0 +1,180 @@
+[
+    {
+        "id": 1,
+        "name": "Roman Reigns",
+        "data":{
+            "card": {
+                "height": "379px",
+                "width": "20vw",
+                "margin": "15px",
+                "background": "#808080",
+                "borderRadius": "10px",
+                "transition": "background 0.8s",
+                "overflow": "hidden",
+                "background": "#000",
+                "boxShadow": "0 70px 63px -60px #000",
+                "display": "flex",
+                "justifyContent": "start",
+                "alignItems": "center",
+                "position": "relative",
+                "background": "url(https://pbs.twimg.com/profile_images/1511354297115631637/nr8gwvkW_400x400.jpg) center center no-repeat",
+                "backgroundSize": "379px"
+            },
+            "card0": {
+                "height": "379px",
+                "width": "20vw",
+                "margin": "15px",
+                "background": "#808080",
+                "borderRadius": "10px",
+                "transition": "background 0.8s",
+                "overflow": "hidden",
+                "background": "#000",
+                "boxShadow": "0 70px 63px -60px #000",
+                "display": "flex",
+                "justifyContent": "start",
+                "alignItems": "center",
+                "position": "relative",
+                "background": "url(https://pbs.twimg.com/profile_images/1511354297115631637/nr8gwvkW_400x400.jpg) left top no-repeat",
+                "backgroundSize": "600px"
+            }
+        },
+        "socials":{
+            "instagram": "https://instagram.com/romanreigns",
+            "twitter": "https://twitter.com/WWERomanReigns",
+            "facebook": "https://www.facebook.com/PowerhouseRomanReigns"
+        }
+    },
+    {
+        "id":2,
+        "name": "Drew McIntyre",
+        "data":{
+            "card": {
+                "height": "379px",
+                "width": "20vw",
+                "margin": "15px",
+                "background": "#808080",
+                "borderRadius": "10px",
+                "transition": "background 0.8s",
+                "overflow": "hidden",
+                "background": "#000",
+                "boxShadow": "0 70px 63px -60px #000",
+                "display": "flex",
+                "justifyContent": "start",
+                "alignItems": "center",
+                "position": "relative",
+                "background": "url(https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/92/692849c2-b8c6-11eb-a086-cbf8a9c7feaf/60a548d0d7b22.image.jpg) center center no-repeat",
+                "backgroundSize": "379px"
+            },
+            "card0": {
+                "height": "379px",
+                "width": "20vw",
+                "margin": "15px",
+                "background": "#808080",
+                "borderRadius": "10px",
+                "transition": "background 0.8s",
+                "overflow": "hidden",
+                "background": "#000",
+                "boxShadow": "0 70px 63px -60px #000",
+                "display": "flex",
+                "justifyContent": "start",
+                "alignItems": "center",
+                "position": "relative",
+                "background": "url(https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/92/692849c2-b8c6-11eb-a086-cbf8a9c7feaf/60a548d0d7b22.image.jpg) left top no-repeat",
+                "backgroundSize": "600px"
+            }
+        },"socials":{
+            "instagram":"https://instagram.com/dmcintyrewwe",
+            "twitter": "https://twitter.com/dmcintyrewwe",
+            "facebook": "https://www.facebook.com/drewgalloway1314/"
+        }
+    },
+    {
+        "id":3,
+        "name": "Bobby Lashley",
+        "data":{
+            "card": {
+                "height": "379px",
+                "width": "20vw",
+                "margin": "15px",
+                "background": "#808080",
+                "borderRadius": "10px",
+                "transition": "background 0.8s",
+                "overflow": "hidden",
+                "background": "#000",
+                "boxShadow": "0 70px 63px -60px #000",
+                "display": "flex",
+                "justifyContent": "start",
+                "alignItems": "center",
+                "position": "relative",
+                "background": "url(https://pbs.twimg.com/profile_images/1441700306979627009/WR-mX5e__400x400.jpg) center center no-repeat",
+                "backgroundSize": "379px"
+            },
+            "card0": {
+                "height": "379px",
+                "width": "20vw",
+                "margin": "15px",
+                "background": "#808080",
+                "borderRadius": "10px",
+                "transition": "background 0.8s",
+                "overflow": "hidden",
+                "background": "#000",
+                "boxShadow": "0 70px 63px -60px #000",
+                "display": "flex",
+                "justifyContent": "start",
+                "alignItems": "center",
+                "position": "relative",
+                "background": "url(https://pbs.twimg.com/profile_images/1441700306979627009/WR-mX5e__400x400.jpg) left top no-repeat",
+                "backgroundSize": "600px"
+            }
+        },
+        "socials":"https://instagram.com/bobbylashley",
+        "twitter": "https://twitter.com/wwerollins",
+        "facebook": "https://www.facebook.com/fightbobby/"
+    },
+    {
+        "id":4,
+        "name": "Seth Rollins",
+        "data":{
+            "card": {
+                "height": "379px",
+                "width": "20vw",
+                "margin": "15px",
+                "background": "#808080",
+                "borderRadius": "10px",
+                "transition": "background 0.8s",
+                "overflow": "hidden",
+                "background": "#000",
+                "boxShadow": "0 70px 63px -60px #000",
+                "display": "flex",
+                "justifyContent": "start",
+                "alignItems": "center",
+                "position": "relative",
+                "background": "url(https://media.gq.com/photos/5997424c01e054755c42cb01/1:1/w_3280,h_3280,c_limit/seth-rollins.jpg) center center no-repeat",
+                "backgroundSize": "379px"
+            },
+            "card0": {
+                "height": "379px",
+                "width": "20vw",
+                "margin": "15px",
+                "background": "#808080",
+                "borderRadius": "10px",
+                "transition": "background 0.8s",
+                "overflow": "hidden",
+                "background": "#000",
+                "boxShadow": "0 70px 63px -60px #000",
+                "display": "flex",
+                "justifyContent": "start",
+                "alignItems": "center",
+                "position": "relative",
+                "background": "url(https://media.gq.com/photos/5997424c01e054755c42cb01/1:1/w_3280,h_3280,c_limit/seth-rollins.jpg) left top no-repeat",
+                "backgroundSize": "600px"
+            }
+        },
+        "socials":{
+            "instagram": "https://instagram.com/wwerollins",
+            "twitter": "https://twitter.com/wwerollins",
+            "facebook": "https://www.facebook.com/WWESethRollins"
+        }
+    }
+    
+]

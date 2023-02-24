@@ -1,0 +1,9 @@
+.Container {
+    max-width: 1100px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.words {
+    color: aqua;
+}

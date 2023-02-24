@@ -1,0 +1,64 @@
+{
+"name": {
+    "name": "Roman Reigns"
+},
+"card": {
+    "height": "379px",
+    "width": "300px",
+    "background": "#808080",
+    "borderRadius": "10px",
+    "transition": "background 0.8s",
+    "overflow": "hidden",
+    "background": "#000",
+    "boxShadow": "0 70px 63px -60px #000",
+    "display": "flex",
+    "justifyContent": "center",
+    "alignItems": "center",
+    "position": "relative",
+    "background": "url(https://pbs.twimg.com/profile_images/1511354297115631637/nr8gwvkW_400x400.jpg) center center no-repeat",
+    "backgroundSize": "379px"
+},
+"card0": {
+    "height": "379px",
+    "width": "300px",
+    "background": "#808080",
+    "borderRadius": "10px",
+    "transition": "background 0.8s",
+    "overflow": "hidden",
+    "background": "#000",
+    "boxShadow": "0 70px 63px -60px #000",
+    "display": "flex",
+    "justifyContent": "center",
+    "alignItems": "center",
+    "position": "relative",
+    "background": "url(https://pbs.twimg.com/profile_images/1511354297115631637/nr8gwvkW_400x400.jpg) left top no-repeat",
+    "backgroundSize": "600px"
+},
+"icons": {
+    "position": "absolute",
+    "fill": "#fff",
+    "color": "#fff",
+    "height": "130px",
+    "top": "226px",
+    "width": "50px",
+    "display": "flex",
+    "flexDirection": "column",
+    "alignSelf": "flex-start",
+    "justifyContent": "space-around",
+    "opacity": "0",
+    "transition": "opacity 1s"
+},
+"icons0":{
+    "position": "absolute",
+    "fill": "#fff",
+    "color": "#fff",
+    "height": "130px",
+    "top": "226px",
+    "width": "50px",
+    "display": "flex",
+    "flexDirection": "column",
+    "alignSelf": "flex-start",
+    "justifyContent": "space-around",
+    "opacity": "1"
+}
+}
